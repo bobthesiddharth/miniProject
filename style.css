@@ -44,3 +44,10 @@ td {
   font-size: 1em;
   color: #2c3e50;
 }
+
+button {
+  height: auto;
+  width: auto;
+  background-color:springgreen;
+  border-radius: 15px;
+}
